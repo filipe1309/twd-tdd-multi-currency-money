@@ -10,7 +10,7 @@
 
 ## 💬 About
 
-This project was developed following Hotmart's "[Mini-curso de TDD](https://arquiteturalimpa.club.hotmart.com/lesson/0Ov9Rk6V7j/aula-0-introducao-multi-moedas)" class.
+This project was developed following The Wise Dev's "[Mini-curso de TDD](https://arquiteturalimpa.club.hotmart.com/lesson/0Ov9Rk6V7j/aula-0-introducao-multi-moedas)" class.
 
 ## :computer: Technologies
 
