@@ -38,6 +38,11 @@ git clone git@github.com:filipe1309/twd-tdd-multi-currency-money.git
 cd twd-tdd-multi-currency-money
 ```
 
+```sh
+npm i
+npx husky add .husky/pre-commit "npx lint-staged"
+```
+
 ## :runner: Running
 
 ```sh
